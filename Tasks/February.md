@@ -9,7 +9,7 @@
 
 ### For international e-mail marketing:
 - [ ]  i. Sending emails internationally (into and out of certain countries)<br>
-- [ ]  ii. Myla and Joe working in two different countries --> the US and the Philippines, namely?<br>
+- [ ]  ii. Myla and Joe working in two different countries --> namely the US and the Philippines?<br>
 - [ ]  iii. Are there certain countries that are barred international law; (or local law?) from participating?<br>
 <br><br>
 
